@@ -8,7 +8,7 @@ This repository contains all the extra exercises from the minor web development 
     * [Weekly Geek 1](#Weekly-Geek-1---Maaike-van-Cruchten)
     * [Weekly Geek 2](#Weekly-Geek-2---Stephen-Hay)
     * [Weekly Geek 3](#Weekly-Geek-3---Matise)
-    * [Weekly Geek 4](#Weekly-Geek-4---Maike-Klip)
+    * [~~Weekly Geek 4~~](#Weekly-Geek-4---Maike-Klip)
     * [Weekly Geek 5](#Weekly-Geek-5---Ischa-Gast)
     * [Weekly Geek 6](#Weekly-Geek-6---Voorhoede)
     * [Weekly Geek 7](#Weekly-Geek-7---Daan-Rongen)
@@ -76,7 +76,7 @@ Topics:
 * What tech stack Matise uses
 * How quickly they could setup a Giphy application by using their tech stack
 
-### Weekly Geek 4 - Maike Klip
+### ~~Weekly Geek 4 - Maike Klip~~
 
 This week I went to home sick.
 
