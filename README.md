@@ -164,6 +164,8 @@ The presentation itself was a bit weird, combining a componentization lesson wit
 
 ## Articles
 
+* [Article 1 - Version control](./articles/VERSION_CONTROL.md)
+
 Possible topics:
 
 * **TypeScript** and how it helps you write bug free code without testing it.
