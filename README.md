@@ -26,9 +26,13 @@ This repository contains all the extra exercises from the minor web development 
 
 ### Weekly Geek 1 - Maaike van Cruchten
 
+<details>
+<summary>Sketches</summary>
+
 ![Weekly geek 1 image 1](./assets/weekly-geek-1-1.jpg)
 
-![Weekly geek 1 image 2](./assets/weekly-geek-1-3.jpg)
+![Weekly geek 1 image 2](./assets/weekly-geek-1-2.jpg)
+</details>
 
 In this first weekly geek Maaike van Cruchten spoke to us about the art of sketch noting.
 
@@ -41,9 +45,13 @@ Topics:
 
 ### Weekly Geek 2 - Stephen Hay
 
+<details>
+<summary>Sketches</summary>
+
 ![Weekly geek 2 image 1](./assets/weekly-geek-2-1.jpg)
 
-![Weekly geek 2 image 2](./assets/weekly-geek-2-3.jpg)
+![Weekly geek 2 image 2](./assets/weekly-geek-2-2.jpg)
+</details>
 
 This week we had an ICONS meetup with Stephen Hay, who talked about why we should not blindly follow other peoples designs and start to think about why things work in a design, and what flaws this pattern might have.
 
@@ -55,7 +63,11 @@ Topics:
 
 ### Weekly Geek 3 - Matise
 
+<details>
+<summary>Sketches</summary>
+
 ![Weekly geek 3 image 1](./assets/weekly-geek-3-1.jpg)
+</details>
 
 This weeks weekly geek was more difficult to make notes of, since the two talkers from Matise just briefly talked about how their development stack looked like, followed by a short live-coding session.
 
