@@ -1,80 +1,140 @@
-# Weekly Nerd @cmda-minor-web · 2018-2019
+# Minor Web Development
 
-Elke week is er op woensdagmiddag de Weekly Nerd: 
-Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
+This repository contains all the extra exercises from the minor web development at the UASA.
 
-## Leerdoelen
-- Kennismaken met het beroepenveld
-- Orienteren op het vakgebied
-- Vakgerelateerde artikelen leren schrijven
+## Table of contents
 
-## Werkwijze
-Elke week wordt er een presentatie gegeven door iemand uit het vakgebied. 
-Dit proberen we zo veel mogelijk bij bedrijven te organiseren. 
-Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
+* [Weekly geeks](#Weekly-Geeks)
+    * [Weekly Geek 1](#Weekly-Geek-1---Maaike-van-Cruchten)
+    * [Weekly Geek 2](#Weekly-Geek-2---Stephen-Hay)
+    * [Weekly Geek 3](#Weekly-Geek-3---Matise)
+    * [Weekly Geek 4](#Weekly-Geek-4---Maike-Klip)
+    * [Weekly Geek 5](#Weekly-Geek-5---Ischa-Gast)
+    * [Weekly Geek 6](#Weekly-Geek-6---Voorhoede)
+    * [Weekly Geek 7](#Weekly-Geek-7---Daan-Rongen)
+* [Weekly mingles](#Weekly-Mingles)
+    * [Mirabeau](#Mirabeau)
+    * [Q42](#Q42)
+    * [ICATT Interactive Media](#ICATT-Interactive-Media)
+* [Articles](#Articles)
+* [License](#License)
 
+## Weekly Geeks
 
-Van iedere presentatie maak je sketch-notes en aantekeningen die je op een blog verzamelt. 
-Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
-3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.
+### Weekly Geek 1 - Maaike van Cruchten
 
+![Weekly geek 1 image 1](./assets/weekly-geek-1-1.jpg)
 
-## Criteria
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Je mag niet meer dan 1 Weekly Nerd missen. 
-Als je meer dan 1 Weekly Nerd mist dan krijg je een vervangende opdracht.
+![Weekly geek 1 image 2](./assets/weekly-geek-1-3.jpg)
 
-Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
+In this first weekly geek Maaike van Cruchten spoke to us about the art of sketch noting.
 
+Topics:
+* Why we should do sketch noting
+* What sketch noting actually is
+* Shapes
+* Typography
+* Structure and hierarchy
 
-### Voorbeelden van voorgaande jaren
+### Weekly Geek 2 - Stephen Hay
 
-* https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
-* https://codepen.io/servinnissen/post/plan-then-code
-* https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
-* https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
-* https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
+![Weekly geek 2 image 1](./assets/weekly-geek-2-1.jpg)
 
+![Weekly geek 2 image 2](./assets/weekly-geek-2-3.jpg)
 
-## Programma
+This week we had an ICONS meetup with Stephen Hay, who talked about why we should not blindly follow other peoples designs and start to think about why things work in a design, and what flaws this pattern might have.
 
-### Workshops, praatjes en lezingen
+Topics:
+* How design uses conventions
+* What the results of blindly following these conventions are
+* What excuses people have for using existing patterns
+* How we can solve this design sameness, by following a four-step cycle
 
+### Weekly Geek 3 - Matise
 
-| Datum  | Wat  | Waar | Link  |
-|---|---|---|---|
-| 6 Februari | Sketchnotes met Maaike van Cruchten en Brit Wijnmaalen   | CMD |   |
-| 13 Februari | Stephan Hay over Design Patterns  |   |   |
-| 27 Februari | Cyd Stumpel (ex) & Dennis Spierenburg (ex) over werken als Frontender bij Matise | <a href="https://www.matise.nl">Matise</a> |   |
-| 13 Maart | Maike Klip over ontwerpen voor vluchtelingen | CMD | ICONS |
-| 20 Maart | Ischa Gast over A11y | <a href="https://schiphol.nl">Schiphol</a> |   |
-| 27 Maart | Workshop PE | <a href="https://www.voorhoede.nl/nl/">de Voorhoede</a> |   |
-| 10 April | Daan Rongen over afstuderen en je eigen signatuur behouden | CMD  |   |
-| 17 April | Weekly Mingle |   |   |
-| 24 April | Weekly Mingle |   |   |
-| 8 Mei | Weekly Mingle |   |   |
-| 15 Mei | Weekly Mingle |   |   |
-| 22 Mei | Weekly Mingle |   |   |
-| 29 Mei | Weekly Mingle |   |   |
-| 5 Juni | Weekly Mingle |   |   |
-| 12 Juni | Weekly Mingle |   |   |
-| 19 Juni | Weekly Mingle |   |   |
+![Weekly geek 3 image 1](./assets/weekly-geek-3-1.jpg)
 
+This weeks weekly geek was more difficult to make notes of, since the two talkers from Matise just briefly talked about how their development stack looked like, followed by a short live-coding session.
 
-### Weekly Mingle
-Voor de Weekly Mingle gaan we een aantal weken bedrijven bezoeken. In kleine groepjes ga je kennismaken, krijg je een rondleiding en een presentatie. De bedrijven die hier aan meewerken zijn:
+Topics:
+* What Matise
+* What tech stack Matise uses
+* How quickly they could setup a Giphy application by using their tech stack
 
-* <a href="https://www.deptagency.com/nl-nl/">Dept Amsterdam</a>	
-* <a href="https://www.elastique.nl">Elastique</a>
-* <a href="https://www.valtech.com/nl-nl/">Valtech Amsterdam</a>
-* <a href="https://www.mirabeau.nl">Mirabeau Amsterdam</a>
-* <a href="https://www.q42.nl/">Q42 Amsterdam</a>
-* <a href="https://www.matise.nl">Matise</a>
-* <a href="https://www.icatt.nl">ICATT interactive media</a>
-* <a href="https://lifely.nl">Lifely</a>
+### Weekly Geek 4 - Maike Klip
 
-[Indeling voor de Weekly Mingle](https://docs.google.com/spreadsheets/d/1p5jQ3j5DAknpjaZVpOfyqoqAt5b-9lf0UkZSx5mDUEM/edit#gid=0)
+This week I went to home sick.
+
+### Weekly Geek 5 - Ischa Gast
+
+No sketchnotes for this and the following weeks, in my opinion I got too distracted while trying to draw something each time, that I missed a lot of the talk itself, so here are the notes I took:
+
+* An edge case pretty much means that you say you don't care about that user.
+* Red on white has got a bad contrast.
+* gov.uk is a good website to test usability.
+* Use correct HTML, good headings and apply focus styles.
+* Hidden styles are bad.
+* Color contrast analyzer and accessible-colors.com are good tools to track your color schemes.
+* Funkify is an extension to test how diffent users experience your website.
+* The Axe browser plugin for Chrome is a good place to test your website for accesibility.
+* Sceen reader example: Jaws.
+* Often developers value SEO over accessibility.
+
+### Weekly Geek 6 - Voorhoede
+
+* Progressive enhancement is important.
+* Write HTML first, then make it nice with CSS and finally add JavaScript.
+* Advantages of progressive enhancement: usable outside of the browser scope, SEO, fast loading and good accessibility.
+
+### Weekly Geek 7 - Daan Rongen
+
+* **Skillset**: This pretty much means the ability of a person with relation to their work environment. Previously you were mainly educated within a single field, nowadays that's changing.
+* **Mindset**: The culture and personal flow of a person. This requires some tools to get to know of someone.
+* **Homo universalis**: The idea that a human can do anything he or she wants, as long as he or she wants it.
+* **Sophisticated un-making**: Look at the comparison between adding a fix and redesigning a problem.
+* **Conflict of interest**: Humans have a sedentairy lifestyle. The larger part of the day, humans sit to perform work. A sitting culture
+
+## Weekly Mingles
+
+During the minor, every wednesday, we visited a company in the technology branche. Below you will find a short recap of what we did at each company.
+
+### Mirabeau
+
+When we visited Mirabeau we mainly spoke about our personal experiences as developers.
+This includes things like: work and internship experiences, our perception of "big" companies.
+Furthermore, the two Mirabeau employees talked about what makes Mirabeau Mirabeau, including past projects, customers and the parent company Cognizant.
+
+### Q42
+
+Upon arrival at Q42 I immediately noticed that it would be a fun company to visit, since they had a freaking slide in the office.
+We were greeted with drinks by three employees of Q42.
+
+We sat down in a small office room, where they showed us a small presentation with interactive elements, for example: _"How did you get to CMD Amsterdam?"_ and _"What things would you like to build?"_.
+
+I especially liked their wednesday afternoon learning time. Here all employees would get the space and time to look into something that they would like to know more about, related to the work field.
+
+### ICATT Interactive Media
+
+The location of ICATT is pretty awesome, since it is right in the city center of Amsterdam.
+This brings some issues with it immediately which I could not unnotice during the presentation, mainly related to trams passing by very loudly.
+I don't know how these people focus on work in this office in the summer where the windows should be open, because it otherwise will get too hot inside.
+
+Anyhow, we listened to a presentation from the CEO of the company, and employees.
+Each person represented a piece of the interactive media puzzle. Design, frontend and backend development.
+
+At first I thought these talks where going to be really boring, which in fact it was not, quite the opposite really. However, after us all pitching something about ourselves, I was still left with the feeling that the company did not suit me.
+
+The feeling of the company, that I got, was that it is quite a stale company, this could just be an opinion, because I always compare these kind of companies with each other.
+
+## Articles
+
+Possible topics:
+
+* **TypeScript** and how it helps you write bug free code without testing it.
+* The **React JavaScript library** and in particular the new addition **hooks**.
+* How using **BEM** as classnames in **CSS** provides a coding structure that works in SCSS and CSS.
+* How **conceptualizing application structure** creates a kick start to your code base. / The best way to start development when creating a new application.
+
+## License
+
+This repository is licensed as [MIT](LICENSE) by [Maikel van Veen](https://github.com/maikxx).
