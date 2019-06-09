@@ -15,7 +15,10 @@ This repository contains all the extra exercises from the minor web development 
 * [Weekly mingles](#Weekly-Mingles)
     * [Mirabeau](#Mirabeau)
     * [Q42](#Q42)
+    * [Matise](#Matise)
     * [ICATT Interactive Media](#ICATT-Interactive-Media)
+    * [Lifely](#Lifely)
+    * [Dept](#Dept)
 * [Articles](#Articles)
 * [License](#License)
 
@@ -113,6 +116,18 @@ We sat down in a small office room, where they showed us a small presentation wi
 
 I especially liked their wednesday afternoon learning time. Here all employees would get the space and time to look into something that they would like to know more about, related to the work field.
 
+### Matise
+
+Matise has an awesome location right besides Artis, where I have for some reason never been before in my life.
+
+The team of Matise looked very friendly and the people that pitched us the companies ideals, were also the people that participated in the Weekly Geek a few weeks earlier.
+
+From the presentation it didn't get very clear for me, however, what they actually did on a day to day basis, which was unfortunate.
+
+I also really did not like the task they gave us, since it had pretty much nothing to do with web development itself, since we had to think of concepts for a project they were going to pitch for. It almost felt like they just wanted to throw the task over to us and take the best ideas to earn money for it.
+
+Impressions matter, and unfortunately I don't think this was the right company for me.
+
 ### ICATT Interactive Media
 
 The location of ICATT is pretty awesome, since it is right in the city center of Amsterdam.
@@ -126,6 +141,27 @@ At first I thought these talks where going to be really boring, which in fact it
 
 The feeling of the company, that I got, was that it is quite a stale company, this could just be an opinion, because I always compare these kind of companies with each other.
 
+### Lifely
+
+During the weekly mingle at Lifely, I was in Edinburgh for a meeting with our client Wallscope for the final test of this minor.
+
+Luckily I already work at Lifely, so I don't miss anything.
+
+### Dept
+
+Dept was probably, besides Elastique, the most hyped up company of all Weekly Mingles.
+I could sort of see why people hyped this up, since they did have a lot of very nice clients where they worked for.
+It also looks like the working environment was very nice.
+
+I need to say that I really do not like big companies that much, which caused me to go to this company with some skepticism. On the other hand I start to notice that I like it in a company when there are not too much (with all respect) older people and the mix between male and female is good.
+
+Luckily Dept has got this locked down, at least I feel like so.
+The presentation itself was a bit weird, combining a componentization lesson with the companies ideals, but oh well.
+
+### Elastique
+
+### Valtech
+
 ## Articles
 
 Possible topics:
@@ -134,6 +170,7 @@ Possible topics:
 * The **React JavaScript library** and in particular the new addition **hooks**.
 * How using **BEM** as classnames in **CSS** provides a coding structure that works in SCSS and CSS.
 * How **conceptualizing application structure** creates a kick start to your code base. / The best way to start development when creating a new application.
+* Writing **tests** (unit or end to end) for TypeScript applications.
 
 ## License
 
