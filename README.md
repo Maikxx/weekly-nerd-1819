@@ -19,6 +19,8 @@ This repository contains all the extra exercises from the minor web development 
     * [ICATT Interactive Media](#ICATT-Interactive-Media)
     * [Lifely](#Lifely)
     * [Dept](#Dept)
+    * [Elastique](#Elastique)
+    * [Valtech](#Valtech)
 * [Articles](#Articles)
 * [License](#License)
 
