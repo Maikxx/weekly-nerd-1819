@@ -88,6 +88,61 @@ While I am a firm pro-TypeScript user, I can see for some applications where it 
 
 For cases, which are well beyong the scope of 50 lines of code ([this is a nice example](https://github.com/Maikxx/360-wallscope), as well as [this](https://github.com/Maikxx/jiskefet) if you want to take a look. Shameless plugs), you will definately want to use TypeScript.
 
+I'll show you a little example which probably would cause you to start writing console logs everywhere, were you not to use TypeScript. It might be a stupid example, but oh well.
+
+### JavaScript
+
+```javascript
+
+const dataObject = {
+    name: 'John Doe',
+    age: 42,
+}
+
+function getNameAndAge(user) {
+    return `My name is ${user.name} and I am ${user.age} years old.`
+}
+
+console.log(getNameAndAge(dataObject))
+
+```
+
+### TypeScript
+
+```typescript
+
+interface User {
+    name?: string
+    age?: number
+}
+
+const dataObject: User = {
+    name: 'John Doe',
+    age: 42,
+}
+
+function getNameAndAge(user: User) {
+    if (user.name && !isNaN(Number(user.age))) {
+        return `My name is ${user.name} and I am ${user.age} years old.`
+    }
+
+    throw new Error(`You have not passed the name or age properties on the user object correctly.`)
+}
+
+console.log(getNameAndAge(dataObject))
+
+```
+
+Thanks to the smart syntax highlighting you know when you need to add extra checks in your code for cases where the code otherwise might not work. If you now were to forget to pass user to the function, the code will not run. Also if you get data from a database, like a user, they don't always have the properties on the object that you require. This makes it difficult to trust your own code, which is why _typing these variables_ is a good idea if you want to make sure something works 99% of the time.
+
+## Conclusion
+
+I like TypeScript, everyone knows that who knows me.
+While I think it is fun and easy to use, it _can_ be overwhelming to set up, especially in large scale projects.
+You should definately have a firm grasp of JavaScript itself before also learning to use TypeScript.
+
+When you think you are ready to start learning it, [start here](https://www.typescriptlang.org/) and work your way through the documentation. You will not regret it, it will save you a lot of time in the long run!
+
 ## Resources
 
 * [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
