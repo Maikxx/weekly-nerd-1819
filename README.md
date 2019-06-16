@@ -174,6 +174,17 @@ The presentation itself was a bit weird, combining a componentization lesson wit
 
 ### Elastique
 
+Our second to last company that we visited was Elastique.
+We had to travel all the way to Hilversum to get to their company.
+I am used to traveling distances for work and study, but Elastique is really not in the area where I am concentrated.
+
+Anyhow, at Elastique we talked about all of our strengths and weaknesses in terms of coding and design, and what we wanted to learn in the last year.
+I told them that I think the act of conceptual coding is a real strength of me. For the weakness, the fact that I don't take the time to think of how something looks and do research to it, since I just want to get started creating something.
+A discussion followed about why I do this study at which point my good mood just fell. I know why I do this study and it is not for everyone to know or judge me about it.
+
+After this discussion they continued to show some of the projects they worked on.
+They came up with the term _Angular_ a lot of the times, which was besides the above two things, enough reason for me not to do an internship here unfortunately.
+
 ### Valtech
 
 ## Articles
