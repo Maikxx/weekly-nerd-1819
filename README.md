@@ -194,10 +194,10 @@ They came up with the term _Angular_ a lot of the times, which was besides the a
 Possible topics:
 
 * **TypeScript** and how it helps you write bug free code without testing it.
-* The **React JavaScript library** and in particular the new addition **hooks**.
-* How using **BEM** as classnames in **CSS** provides a coding structure that works in SCSS and CSS.
-* How **conceptualizing application structure** creates a kick start to your code base. / The best way to start development when creating a new application.
-* Writing **tests** (unit or end to end) for TypeScript applications.
+* The **React JavaScript library** and in particular the new addition **hooks**. ❌
+* How using **BEM** as classnames in **CSS** provides a coding structure that works in SCSS and CSS. ❌
+* How **conceptualizing application structure** creates a kick start to your code base. / The best way to start development when creating a new application. ❌
+* Writing **tests** (unit or end to end) for JavaScript/TypeScript applications.
 
 ## License
 
