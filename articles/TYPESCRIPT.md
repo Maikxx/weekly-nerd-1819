@@ -9,6 +9,7 @@ This article focusses on the way [TypeScript](https://www.typescriptlang.org/doc
 * [Introduction](#Introduction)
 * [Installation](#Installation)
 * [TypeScript Types](#Typescript-types)
+* [But why?](#But-why?)
 * [Resources](#Resources)
 
 ## Introduction
@@ -71,7 +72,21 @@ If an array only consists of one certain type of value, for example an array of 
 
 I personally use the first of these two examples, but you could opt to take the former. The former makes use of the _generic array type_.
 
-## How it may help you
+## But why?
+
+You may think something along the lines of "Okay cool, what gives?". While I had that mindset originally as well before using it, I quickly realized this language is so much more powerful than JavaScript itself.
+
+Most people don't see the payoff for setting up a project in TypeScript (to be honest, it's only like 5 minutes of work either way).
+
+When working on a project in JavaScript, how often do you have to check in the `console` in the browser if something is passed to, for example, a function correctly, if that parameter exists and if it is an object, what properties are definately on there? Probably a lot of times, right?
+
+TypeScript is so useful, since it simply won't compile if you have made a mistake regarding a type and similar issues. In the command line you will see an error message, which you can then track to debug the problem in your code, before even looking at the browser window (in the case of client-side applications).
+
+This doesn't only save you a lot of time, but also a lot of headaches and frustration, which is what I get when I write JavaScript nowadays.
+
+While I am a firm pro-TypeScript user, I can see for some applications where it might not be necessary, let's say you only have about 50 lines of code, you will probably be done debugging that error way earlier than when you had setup TypeScript and started to write code then.
+
+For cases, which are well beyong the scope of 50 lines of code ([this is a nice example](https://github.com/Maikxx/360-wallscope), as well as [this](https://github.com/Maikxx/jiskefet) if you want to take a look. Shameless plugs), you will definately want to use TypeScript.
 
 ## Resources
 
