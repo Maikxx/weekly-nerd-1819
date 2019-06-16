@@ -1,0 +1,32 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "downlevelIteration": true,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "jsx": "preserve",
+        "lib": [
+            "esnext",
+            "dom"
+        ],
+        "module": "esnext",
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noUnusedLocals": true,
+        "rootDir": "src",
+        "skipLibCheck": true,
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "target": "esnext"
+    },
+    "include": [
+        "**/*.ts",
+        "**/*.tsx",
+    ],
+    "exclude": [
+        "./node_modules",
+        "./dist"
+    ]
+}
