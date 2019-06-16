@@ -190,6 +190,8 @@ They came up with the term _Angular_ a lot of the times, which was besides the a
 ## Articles
 
 * [Article 1 - Version control](./articles/VERSION_CONTROL.md)
+* [Article 2 - TypeScript](./articles/TYPESCRIPT.md)
+* [Article 3 - Unit testing](./articles/UNIT_TESTING.md)
 
 Possible topics:
 
