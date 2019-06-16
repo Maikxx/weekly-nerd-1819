@@ -10,6 +10,7 @@ This article focusses on the way [TypeScript](https://www.typescriptlang.org/doc
 * [Installation](#Installation)
 * [TypeScript Types](#Typescript-types)
 * [But why?](#But-why?)
+* [Conclusion](#Conclusion)
 * [Resources](#Resources)
 
 ## Introduction
