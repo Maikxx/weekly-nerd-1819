@@ -6,8 +6,11 @@ This article focusses on how unit testing disproves your thoughts and implementa
 
 ## Table of Contents
 
+* [Introduction](#Introduction)
 * [Conclusion](#Conclusion)
 * [Resources](#Resources)
+
+## Introduction
 
 ## Conclusion
 
