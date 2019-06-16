@@ -124,7 +124,9 @@ This is just a simple example of how to use unit testing, it can and will be way
 
 ## Conclusion
 
-
+When it comes to unit testing, as you may have seen it can really help you out in some situations where you are just in a hurry and trying to do a lot of things at once, causing bugs.
+With unit testing you can iron those bugs out before they even occur in production.
+There is a lot left to be learned and explored about unit testing, as it is a whole job category on it's own, so make sure to check out these resources below.
 
 ## Resources
 
