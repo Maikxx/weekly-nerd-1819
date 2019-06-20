@@ -187,6 +187,11 @@ They came up with the term _Angular_ a lot of the times, which was besides the a
 
 ### Valtech
 
+Our last company that we visited was Valtech.
+At Valtech, which is situated in the same building as Mirabeau, we got a little tour of the building, after which we got a little presentation about the company.
+We then had to introduce ourselves to the two people.
+After this we got a (little too long of a) presentation about the Web Bluetooth API, which was very interesting. You can do a lot of things with it I didn't know about. I just didn't see the use cases very much.
+
 ## Articles
 
 * [Article 1 - Version control](./articles/VERSION_CONTROL.md)
