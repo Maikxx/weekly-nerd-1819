@@ -1,6 +1,6 @@
 # Minor Web Development
 
-This repository contains all the extra exercises from the minor web development at the UASA.
+This repository contains all the extra exercises from the minor web development at the AUAS.
 
 ## Table of contents
 
