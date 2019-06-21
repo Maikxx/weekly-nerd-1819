@@ -92,9 +92,9 @@ No sketchnotes for this and the following weeks, in my opinion I got too distrac
 * Use correct HTML, good headings and apply focus styles.
 * Hidden styles are bad.
 * Color contrast analyzer and accessible-colors.com are good tools to track your color schemes.
-* Funkify is an extension to test how diffent users experience your website.
-* The Axe browser plugin for Chrome is a good place to test your website for accesibility.
-* Sceen reader example: Jaws.
+* Funkify is an extension to test how different users experience your website.
+* The Axe browser plugin for Chrome is a good place to test your website for accessibility.
+* Screen reader example: Jaws.
 * Often developers value SEO over accessibility.
 
 ### Weekly Geek 6 - Voorhoede
@@ -109,7 +109,7 @@ No sketchnotes for this and the following weeks, in my opinion I got too distrac
 * **Mindset**: The culture and personal flow of a person. This requires some tools to get to know of someone.
 * **Homo universalis**: The idea that a human can do anything he or she wants, as long as he or she wants it.
 * **Sophisticated un-making**: Look at the comparison between adding a fix and redesigning a problem.
-* **Conflict of interest**: Humans have a sedentairy lifestyle. The larger part of the day, humans sit to perform work. A sitting culture
+* **Conflict of interest**: Humans have a sedentary lifestyle. The larger part of the day, humans sit to perform work. A sitting culture
 
 ## Weekly Mingles
 

@@ -14,7 +14,7 @@ This article focusses on the preferred way to handle version control in a multi-
         * [Develop branch](#Develop-branch)
         * [Named branches](#Named-branches)
     * [Pull requests](#Pull-requests)
-* [Commiting](#Commiting)
+* [Committing](#Committing)
     * [Action](#Action)
     * [Scope](#Scope)
     * [Description](#Description)
@@ -69,7 +69,7 @@ Every new git project has a master branch. Develop is a branch that you will nee
 
 #### Master branch
 
-The master branch is a branch on which should not be commited directly.
+The master branch is a branch on which should not be committed directly.
 You can enforce rules on branches on GitHub, by following [this tutorial](https://help.github.com/en/articles/enabling-branch-restrictions).
 
 This branch is for release versions of the software that is being created.
@@ -103,11 +103,11 @@ The semantic branch names I personally use are someway along this line (these ar
 * `fix/` - Branch for specific fixes. Avoid hitting files outside of the scope of this branch.
     Example: `fix/client-app-view-integration`.
     These type of branches will be less common, since it is also allowed to perform fixes on `develop`. (Branched from `develop`)
-* `hotfix/` - Branch for **high prio fixes**, that are already on the `master` branch.
+* `hotfix/` - Branch for **high priority fixes**, that are already on the `master` branch.
     These type of branches should really never occur, since all code and designs going to `master` should already be tested.
     Hotfix branches generally have different names from normal branches, I have not thought out this far yet.
     If it occurs that you need it and you read this, ask me again what naming conventions these should follow.
-    Everything is allowed in this branch, as long as it aims to fix **high prio bugs** on `master`. (Branched from `master`)
+    Everything is allowed in this branch, as long as it aims to fix **high priority bugs** on `master`. (Branched from `master`)
 
 As you can see not all cases are covered with these branch names, for example adding a new dependency. This is in my opinion not immediately a new feature in itself.
 
@@ -125,7 +125,7 @@ Most of the time these are pretty easy to fix, often you can _take both_, for ot
 
 [VSCode](https://code.visualstudio.com/) has got a pretty decent merge conflict overview tool, while some of the other tools mentioned above are good too.
 
-## Commiting
+## Committing
 
 In contrast to the pretty _"random"_ branch naming conventions explained above, commit messages have some more proven backers.
 
@@ -141,7 +141,7 @@ The preferred way to write version control (according to me and the sources list
 
 The action in the phrase can be one of the following:
 
-* `chore` - Use this if you install new dependencies or change things to the configuration of the application. **These changes need to be pushed on a seperate commit from other changes.**
+* `chore` - Use this if you install new dependencies or change things to the configuration of the application. **These changes need to be pushed on a separate commit from other changes.**
 * `feature` - You will probably use this most of the time. This is for the cases when you add something new to the application.
 * `fix` - If there is something broken that has already been pushed and you fixed that.
 * `refactor` - Most of the time you use this when you rewrite a piece of code so that it looks better, or is written in a nicer way.
@@ -151,9 +151,9 @@ As you can see I don't use the `docs` action, because in my opinion you add some
 
 **Note on multiple actions at once**
 
-Preferrably split commits up into separate of these actions.
+Preferably split commits up into separate of these actions.
 
-If for some reason this is not possible or preferrable, use the one on top of the other one.
+If for some reason this is not possible or preferable, use the one on top of the other one.
 Like so: `feature` > `fix` or `feature` > `refactor`.
 Where the left one in these cases is the one you are going to use.
 
@@ -167,7 +167,7 @@ This can be either one of the following:
 * `deps` - For the case where dependencies change. Used in combination with chore.
 * `client > *` - For cases where you change something in the client folder. The asterisks stands for the part of the application that you changed. For example: `feature(client > home): add homepage`.
 * `server > *` - For cases where you change something in the server folder. The asterisks stands for the part of the application that you changed. For example: `feature(server > api): integrate api`.
-* `*` - For cases where you just don't give a shit, mostly used when you have tried to fix something multiple times, when it clearly still does't work each time.
+* `*` - For cases where you just don't give a shit, mostly used when you have tried to fix something multiple times, when it clearly still doesn't work each time.
 
 ### Description
 

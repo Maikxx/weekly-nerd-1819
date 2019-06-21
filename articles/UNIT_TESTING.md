@@ -25,7 +25,7 @@ The ideal combination to remove human errors from your code is by using TypeScri
 
 I am by no means an expert in unit testing, but I already came across a very useful use case in my [latest project](https://github.com/Maikxx/360-wallscope). I use TypeScript on the Node server, with a PostgreSQL database. Again, I am by no means a data architect or PostgreSQL professional, so I could use every hand I could get.
 
-As a challenge for myself during this _meesterproef_ I hit up the challenge to improve performance of the application. While you could just simply compress all outgoing files, I also went a step further and wanted to take a look at how a very performant database such as PostgreSQL could best be written.
+As a challenge for myself during this _meesterproef_ I hit up the challenge to improve performance of the application. While you could just simply compress all outgoing files, I also went a step further and wanted to take a look at how a very performing database such as PostgreSQL could best be written.
 
 In this article I will explore some of the principles and code of unit testing, while also showing you the case where I thought I had everything under control in a simple function, which appeared to break the whole application after testing it.
 
@@ -49,7 +49,7 @@ Before you can add a test to your application, make sure that you have a _packag
 
 So to put it all together and start testing your TypeScript application, you would run the following command: `yarn add chai mocha ts-node @types/chai @types/mocha -D` or `npm install chai mocha ts-node @types/chai @types/mocha -D`.
 
-This in itself is not enough to run tests, you will need to specify a test in the _package.json_ file with the register it needs to use to precompile code (in the case of TypeScript), so that it can be tested with Mocha, as well as an entry point for your test files.
+This in itself is not enough to run tests, you will need to specify a test in the _package.json_ file with the register it needs to use to pre-compile code (in the case of TypeScript), so that it can be tested with Mocha, as well as an entry point for your test files.
 
 This entry point can be a single file, or a glob pattern.
 
@@ -71,7 +71,7 @@ The example we are going to be focussing on next is a _Node_ application. When y
 ## Example
 
 As mentioned previously, I recently came across a very good use case for unit testing in my own applications.
-Before that I thougth it was quite excessive and time consuming to write tests for all functionalities of your application, which I still sort of think is not always necessary, but oh well.
+Before that I thought it was quite excessive and time consuming to write tests for all functionalities of your application, which I still sort of think is not always necessary, but oh well.
 
 Let's assume you have the following piece of code in a lot of places throughout your application: \``{${array.join(', ')}}`\`, this piece turns an array into a PostgreSQL array input type. The more you know...
 
